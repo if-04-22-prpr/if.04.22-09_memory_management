@@ -2,7 +2,7 @@
  *				HTBLA-Leonding
  * ---------------------------------------------------------
  * Title:			Tests implementation for memory management.
- * Author:			S. Schraml
+ * Author:			*/<your name>;/*
  * ----------------------------------------------------------
  * Description:
  * Unit tests for for memory management.

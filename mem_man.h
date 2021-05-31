@@ -2,7 +2,7 @@
  *				HTBLA-Leonding
  * ---------------------------------------------------------
  * Title:			Simple Memory Manager.
- * Author:			S. Schraml
+ * Author:			*/<your name>;/*
  * ----------------------------------------------------------
  * Description:
  * Declaration of functions for memory management.

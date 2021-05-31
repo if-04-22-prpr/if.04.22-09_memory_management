@@ -2,6 +2,7 @@
  *				HTBLA-Leonding / Class: <your class name here>
  *-----------------------------------------------------------------------------
  * Exercise Number: S09
+ * Author:			*/<your name>;/*
  *-----------------------------------------------------------------------------
  * Description:
  * The main application that uses memory manager.

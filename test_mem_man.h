@@ -2,7 +2,7 @@
  *				HTBLA-Leonding / Klasse: n/a
  * ---------------------------------------------------------
  * Title:			Unit Tests for Memory Manager implementation
- * Author:			S. Schraml
+ * Author:			*/<your name>;/*
  * ----------------------------------------------------------
  * Description:
  * Tests functions for memory manager.
